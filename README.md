@@ -3,21 +3,22 @@
 <br>
 <h2>Esse foi um projeto que eu desenvolvi no <a href="https://rodolmori.com.br/devclub">Devclub</h2>
 <br>
-<h3>Tecnologias utilizadas: </h3>
-<br>
-- HTML
-  <br>
-- CSS 
 <br>
 <img src="https://github.com/Perimadson35/Desafio-Projeto-Figma/blob/master/img/Imagem.logo.png?raw=true">
+<br>
 
 <h1 align="center">🚖 CityRide - Desafio Devclub</h1>
+<br>
 
 <p align="center">
+  <h3>Tecnologias utilizadas: </h3>
+
   Uma landing page responsiva para um app de transporte urbano, feita com HTML e CSS puros.  
 </p>
 
 <p align="center">
+    <h3>Tecnologias utilizadas: </h3>
+
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
@@ -60,7 +61,7 @@ A interface foi construída com técnicas **mobile-first** e **Flexbox**, garant
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/seu-usuario/urban-connection
+git clone https://github.com/Perimadson35/CityRide-Desafio-Devclub
 
 # 2. Acesse a pasta do projeto
 Acessar a pasta CityRide
