@@ -105,7 +105,6 @@ p {
 /* ====== RESPONSIVO PARA CELULARES ====== */
 @media screen and (max-width: 768px) {
     header {
-        flex-direction: column;
         align-items: flex-start;
         gap: 15px;
     }
